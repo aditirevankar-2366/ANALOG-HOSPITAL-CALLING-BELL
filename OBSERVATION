@@ -1,0 +1,14 @@
+i) Waveforms observed for emergency call circuit 
+    C= 0.01uF 
+    TON – 138us 
+    TOFF – 69 us 
+   Duty cycle – Ton/T = 0.66= 66% 
+     Frequency = 1/T = 1/207ms = 4.8Hz or 5Hz 
+ii) Waveforms observed for regular call circuit 
+     C=10uF 
+     TON-138ms 
+     TOFF-69ms 
+     Duty cycle – Ton/T = 0.66= 66% 
+     Frequency = 1/T = 1/207us = 4.8kHz or 5kHz 
+iii) Priority Checker 
+     Output Drive voltage of pnp - 11.639V
