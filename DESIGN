@@ -1,0 +1,28 @@
+Design 
+i) Regular call (ROOM1): 
+ 
+C = 10µ, let R1 = R2 = 10k 
+ 
+TON = C (RA + RB) ln2 
+= (10µ)(10k + 10k) ln2 
+= 0.138 s 
+= 138.62 ms 
+ 
+TOFF = RB C ln2 
+= 10k (10µ) ln2 
+= 0.069 s 
+= 69.31 ms 
+ 
+ii) Normal call (ROOM 2): 
+ 
+C = 0.01µ, let R1 = R2 = 10k 
+ 
+TON = C (RA + RB) ln2 
+= (0.01µ) (20k) ln2 
+= 0.138 ms 
+= 138 µs 
+ 
+TOFF = RB C ln2 
+= 10k (0.01µ) ln2 
+= 0.069 ms 
+= 69 µs
