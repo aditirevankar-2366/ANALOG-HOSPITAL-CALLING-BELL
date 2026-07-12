@@ -42,7 +42,7 @@ Optional room priority checking
 Low-cost implementation using analog electronic components
 Suitable for hospitals, clinics, and small healthcare facilities
 
-## ** Components Used**
+## **Components Used**
 
 * 555 Timer IC
 * BC547BG (NPN Transistor)
@@ -67,7 +67,7 @@ Suitable for hospitals, clinics, and small healthcare facilities
 * Connecting Wires
 
 
-### ** Applications**
+### **Applications**
 * Hospitals
 * Clinics
 * Nursing homes
