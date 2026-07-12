@@ -68,16 +68,16 @@ Suitable for hospitals, clinics, and small healthcare facilities
 
 
 ### Applications
-Hospitals
-Clinics
-Nursing homes
-Elderly care centers
-Small healthcare facilities
+* Hospitals
+* Clinics
+* Nursing homes
+* Elderly care centers
+* Small healthcare facilities
 
 ### Future Improvements
-Microcontroller-based acknowledgment system
-Wireless call bell integration
-LCD/OLED display for room information
-Battery backup
-IoT-based remote monitoring and notifications
+* Microcontroller-based acknowledgment system
+* Wireless call bell integration
+* LCD/OLED display for room information
+* Battery backup
+* IoT-based remote monitoring and notifications
 
