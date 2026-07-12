@@ -1,4 +1,4 @@
-### Introduction
+### **Introduction**
 
 The Hospital Room Caller Bell System is an analog electronics project designed to provide reliable communication between patients and nursing staff. By pressing a call button, a patient triggers both an audible alarm and a visual LED indicator at the nurse's station, ensuring prompt attention.
 
@@ -6,7 +6,7 @@ The system uses a transistor-based latching mechanism, RC networks, and diode is
 
 An additional priority-checking feature was also explored to manage multiple room requests by giving precedence to higher-priority calls.
 
-## Theory
+## **Theory**
 
 The Hospital Room Caller Bell System is based on the principles of transistor switching, latching, timing, and diode-based signal control. The circuit ensures reliable operation by maintaining the alert state until it is manually reset and incorporates a priority mechanism for handling simultaneous calls.
 
@@ -33,7 +33,7 @@ A **1N4148 diode** is used to give **Room 1** higher priority than **Room 2**. W
 
 The **555 Timer IC** operates in **astable mode** to generate the required timing for the buzzer and LED. A **2N2222 NPN transistor** is used as a switching stage to drive the buzzer, ensuring reliable operation even when the timer output voltage is insufficient to power it directly.
 
-### Features
+### **Features**
 Patient-to-nurse call bell system
 Audible and visual alert indication
 Latching mechanism to retain alerts until acknowledged
@@ -42,7 +42,7 @@ Optional room priority checking
 Low-cost implementation using analog electronic components
 Suitable for hospitals, clinics, and small healthcare facilities
 
-## Components Used
+##** Components Used**
 
 * 555 Timer IC
 * BC547BG (NPN Transistor)
@@ -67,14 +67,14 @@ Suitable for hospitals, clinics, and small healthcare facilities
 * Connecting Wires
 
 
-### Applications
+###** Applications**
 * Hospitals
 * Clinics
 * Nursing homes
 * Elderly care centers
 * Small healthcare facilities
 
-### Future Improvements
+### **Future Improvements**
 * Microcontroller-based acknowledgment system
 * Wireless call bell integration
 * LCD/OLED display for room information
