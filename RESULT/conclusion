@@ -1,0 +1,10 @@
+The desired hospital room call bell system was implemented successfully with the help of 
+tranistors , timerIC, buzzer and LED. The circuit works as required. When the push button is 
+pressed it activates the buzzer and LEDs. The system is active until the reset button is 
+acitivated. The same circuit is made for two rooms – emergency and regular, where the 
+emergency room is given more priority. The capacitor based timing control prevents 
+continuous ringing and operates the bell for certain period of time. The timing parameters of 
+the circuit were calculated and verified using MULTISIM software.The priority mechanism 
+using diode logic was also tested, when both the buttons are pressed simulatanously only the 
+buzzer of the emergency room becomes on and the buzzer of the normal room is not activated 
+due to the diode operation. 
